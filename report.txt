@@ -1,0 +1,10 @@
+Student Performance Management System - Report
+=============================================
+Name                Roll    Section Total     Percentage  Grade 
+------------------------------------------------------------------
+hamza               23      A       301.00    43.00       F     
+
+Class Statistics:
+Average Percentage: 43.00
+Highest Percentage: 43.00
+Lowest Percentage: 43.00
